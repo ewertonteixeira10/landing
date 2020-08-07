@@ -1,0 +1,44 @@
+.footer {
+  background: rgb(60,60,60);
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 30px 50px;
+  text-align: center;
+}
+
+.footer-links {
+  align-items: center;
+  list-style: none;
+}
+
+.footer-links li {
+  display: inline;
+  padding: 20px;
+}
+
+.footer-links li i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+
+.footer-links a {
+  color: black;
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+
+.footer-links a:hover {
+  opacity: 1;
+}
+
+.footer-copyright {
+  color: rgb(230,230,230);
+  padding-top: 22px;
+}
+
+.footer .fa-heart {
+  color: red;
+}
